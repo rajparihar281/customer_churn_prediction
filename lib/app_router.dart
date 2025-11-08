@@ -2,7 +2,7 @@
 import 'package:go_router/go_router.dart';
 import 'screens/customer_detail_screen.dart';
 import 'main_scaffold.dart';
-import 'screens/splash_screen.dart'; // Import the new splash screen
+import 'screens/splash_screen.dart';
 
 final router = GoRouter(
   // 1. Change the initial location to the splash screen's route

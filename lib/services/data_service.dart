@@ -30,7 +30,6 @@ class DataService {
       'assets/data/shap_all_customers.json',
     );
 
-    // **THE FIX IS HERE**: Removed shouldParseNumbers: true
     // This makes the parsing more predictable by letting our helpers handle all conversions.
     final List<List<dynamic>> csvList = const CsvToListConverter().convert(
       rawCsvData,
