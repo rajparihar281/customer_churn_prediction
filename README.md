@@ -1,5 +1,5 @@
 # 📊 Customer Churn Prediction --- ML + Flutter UI
-
+| ![splashscreen](screenshots/output_1.jpeg) | ![Dashboard](screenshots/output_4.jpeg) |![Insights](screenshots/output_7.jpeg) |
 A complete end-to-end project that predicts customer churn using
 **Machine Learning (Python)** and visualizes the results through a
 **Flutter-based UI**.\
